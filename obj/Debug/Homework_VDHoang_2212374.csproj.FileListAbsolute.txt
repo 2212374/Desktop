@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Homeword_VDHoang_2212374\Homeword_VDHoang_2212374\obj\Debug\Homework_VDHoang_2212374.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Homeword_VDHoang_2212374\Homeword_VDHoang_2212374\obj\Debug\Homeword_VDHoang_2212374.BT.resources
+C:\Users\Admin\source\repos\Homeword_VDHoang_2212374\Homeword_VDHoang_2212374\obj\Debug\Homeword_VDHoang_2212374.Properties.Resource1.resources
+C:\Users\Admin\source\repos\Homeword_VDHoang_2212374\Homeword_VDHoang_2212374\obj\Debug\Homework_VDHoang_2212374.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Homeword_VDHoang_2212374\Homeword_VDHoang_2212374\obj\Debug\Homework_VDHoang_2212374.csproj.CoreCompileInputs.cache
